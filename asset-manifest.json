@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/despliegue-git/static/js/main.ccd8144f.js",
+    "index.html": "/despliegue-git/index.html",
+    "main.ccd8144f.js.map": "/despliegue-git/static/js/main.ccd8144f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ccd8144f.js"
+  ]
+}
